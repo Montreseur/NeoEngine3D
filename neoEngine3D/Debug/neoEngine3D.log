@@ -1,0 +1,8 @@
+﻿  neoEngine3D.cpp
+C:\Users\johnd\Documents\MontreseursCodingPalace\neoEngine3D\neoEngine3D.cpp(169,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\johnd\Documents\MontreseursCodingPalace\neoEngine3D\neoEngine3D.cpp(169,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\johnd\Documents\MontreseursCodingPalace\neoEngine3D\neoEngine3D.cpp(168,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\johnd\Documents\MontreseursCodingPalace\neoEngine3D\neoEngine3D.cpp(168,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\johnd\Documents\MontreseursCodingPalace\neoEngine3D\neoEngine3D.cpp(167,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\johnd\Documents\MontreseursCodingPalace\neoEngine3D\neoEngine3D.cpp(167,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  neoEngine3D.vcxproj -> C:\Users\johnd\Documents\MontreseursCodingPalace\neoEngine3D\Debug\neoEngine3D.exe
